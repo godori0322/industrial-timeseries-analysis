@@ -1,0 +1,17 @@
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 가상환경 폴더
+.tsvenv/
+
+# 데이터 파일
+*.csv
+*.xls
+*.xlsx
+*.parquet
+*.json
+*.h5
+*.pkl
+
+# 기타 대용량 원본 데이터 폴더 (선택)
+data/
